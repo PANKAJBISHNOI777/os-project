@@ -74,7 +74,7 @@ Open a Pull Request
 This project is licensed under MIT License - see LICENSE for details.
 
 📧 Contact
-For questions/suggestions, email: yvarungurrani@gmail.com
+For questions/suggestions, email: pankajbishnoi1900@gmail.com
 
 ⭐ Star this repo if you find it useful!
 GitHub stars
